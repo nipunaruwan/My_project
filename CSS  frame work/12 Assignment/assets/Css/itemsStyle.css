@@ -1,0 +1,27 @@
+#button{
+    position: absolute;
+    right: 112px;
+    top: 197px;
+}
+.table{
+    position: absolute;
+    top: 256px;
+}
+h1{
+    position: absolute;
+    top: -9px;
+    right: 800px;
+}
+#text{
+    position: absolute;
+    top: 86px;
+    right: 243px;
+    left: 243px;
+}
+
+img{
+    position: absolute;
+    top: -3px;
+    right: 753px;
+}
+
